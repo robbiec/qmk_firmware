@@ -1,0 +1,13 @@
+{
+  "keyboard_name": "AUTOJECTOR3",
+  "url": "",
+  "maintainer": "AUTOJECTOR",
+  "width": 5,
+  "height": 2,
+  "layouts": {
+    "LAYOUT": {
+      "key_count": 4,
+	  "layout": [{"x":0, "y":0}, {"x":1, "y":0}, {"x":0, "y":1}, {"x":1, "y":1}]
+	}
+  }
+}
